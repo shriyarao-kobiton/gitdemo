@@ -1,0 +1,15 @@
+{
+  "desiredCaps": {
+    "sessionName": "Gitdemo Test Session",
+    "deviceName": "Pixel 6 5G + NPC",
+    "platformName": "Android",
+    "platformVersion": "15",
+    "deviceOrientation": "portrait",
+    "deviceGroup": "ORGANIZATION",
+    "noReset": true,
+    "captureScreenshots": true,
+    "groupId": 13284,
+    "app": "kobiton-store:634100"
+  },
+  "kobitonServerUrl": "https://sademo:cef40b6a-c68f-4769-a17a-6b0b67ae4d46@api.kobiton.com/wd/hub"
+}
